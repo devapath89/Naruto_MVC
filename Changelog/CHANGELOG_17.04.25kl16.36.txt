@@ -1,0 +1,15 @@
+
+Naruto Roguelike Changelog:
+
+Implemented:
+- MVC structure (Model, View, Controller)
+- All Akatsuki relics and Swordsmen relics
+- Evolution system, Death mechanics, and stat growth
+
+In progress:
+- UI integration and comprehensive combat testing
+- Memory event integrations and further balancing
+
+Planned next:
+- Full combat loop testing and refinement
+- Additional UI polish and UX improvements

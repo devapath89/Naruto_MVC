@@ -1,0 +1,1 @@
+// stub: Ringbox visual UI

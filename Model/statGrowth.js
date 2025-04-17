@@ -1,0 +1,1 @@
+// stub: Stat growth calculation

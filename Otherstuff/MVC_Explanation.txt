@@ -1,0 +1,13 @@
+
+Naruto Roguelike - MVC Project Explanation
+
+Model:
+- Contains game logic, data structures, entities, stats, relic handling, and combat mechanics.
+
+View:
+- Responsible for UI presentation, including Ringbox, Evolution interface, Combat interface, and other visual elements.
+
+Controller:
+- Handles user input, game initialization, combat turn logic, and evolution selections.
+
+This MVC structure ensures separation of concerns, ease of maintenance, scalability, and clarity of the codebase.
